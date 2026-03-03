@@ -1,6 +1,6 @@
 {
   "server_status": {
-    "state": "aktif",
+    "state": "pasif",
     "last_updated": "2026-03-03T14:30:00Z"
   },
   "whitelist_programs": [
