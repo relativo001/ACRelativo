@@ -64,7 +64,7 @@
   "servers": [
     {
       "name": "Handes 2",
-      "status": "aktif",
+      "status": "pasif",
       "launcher_hash": "e75c38a7201717ef1504a6ebee3a81df5dd4f223116907a3367f68d061e13741"
     },
     {
