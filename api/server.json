@@ -57,7 +57,8 @@
     "Discord/update.exe",
     "Discord/app-1.0.9219/Discord.exe",
     "Discord/app-1.0.9218/Discord.exe",
-    "Discord/app-1.0.9226/Discord.exe"
+    "Discord/app-1.0.9226/Discord.exe",
+    "Discord/app-1.0.9227/Discord.exe"
   ],
   "custom_paths": [
     "Downloads/goodbyedpi-0.2.3rc3-turkey/x86_64/goodbyedpi.exe"
@@ -111,6 +112,7 @@
     "razer,Razer USA Ltd."
   ],
   "user_signature_rules": [
+    "Discord Inc.",
     "Discord Inc.",
     "Discord Inc.",
     "Discord Inc.",
