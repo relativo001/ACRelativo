@@ -54,12 +54,12 @@
     "C:/Program Files/SystemInformer/SystemInformer.exe"
   ],
   "user_paths": [
-    "Discord\\update.exe",
-    "Discord\\app-1.0.9219\\Discord.exe",
-    "Discord\\app-1.0.9218\\Discord.exe"
+    "Discord/update.exe",
+    "Discord/app-1.0.9219/Discord.exe",
+    "Discord/app-1.0.9218/Discord.exe"
   ],
   "custom_paths": [
-    "Downloads\\goodbyedpi-0.2.3rc3-turkey\\x86_64\\goodbyedpi.exe"
+    "Downloads/goodbyedpi-0.2.3rc3-turkey/x86_64/goodbyedpi.exe"
   ],
   "servers": [
     {
