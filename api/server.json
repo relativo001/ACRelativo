@@ -70,7 +70,8 @@
       "name": "FearMt2",
       "status": "aktif",
       "launcher_hash": "9a47f602ff99e16f53783d01166c84b00e42aa08088248c6e41478554a09c36d",
-      "metin2clientbin": "6bca33806fce7c22ce95606c66923fc327e4930d91ce48ff905d0309d33d98f9"
+      "metin2clientbin": "6bca33806fce7c22ce95606c66923fc327e4930d91ce48ff905d0309d33d98f9",
+      "modguard": "6a07737e93b96d6fbae6b918de27e7fba156f3efeb4d2ede1ecb5fd798d7113e"
     },
     {
       "name": "Server 2",
