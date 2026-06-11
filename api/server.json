@@ -81,6 +81,8 @@
   "signature_rules": [
     "chrome.exe,Google LLC|Google Inc",
     "firefox.exe,Mozilla Corporation",
+    "msedge.exe,Microsoft Corporation",
+    "msedge.exe,Microsoft Corporation",
     "discord.exe,Discord Inc.",
     "steam.exe,Valve Corp.|Valve",
     "steamservice.exe,Valve Corp.|Valve",
@@ -95,7 +97,6 @@
     "eadesktop.exe,Electronic Arts, Inc.",
     "battle.net.exe,Blizzard Entertainment, Inc.",
     "blizzard,Blizzard Entertainment, Inc.",
-    "msedge.exe,Microsoft Corporation",
     "spotify.exe,Spotify AB",
     "obs64.exe,OBS Project",
     "obs-studio,OBS Project",
