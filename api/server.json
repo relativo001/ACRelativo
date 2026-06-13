@@ -135,6 +135,7 @@
     "864d70dd755dab8431c2465531067cf8130168585e5dd4c4b7de3df54a1967"
   ],
   "blacklist": [
+    "cheatengine.exe",
     "ollydbg.exe",
     "x32dbg.exe",
     "x64dbg.exe",
@@ -148,6 +149,11 @@
     "ollydbg",
     "x32dbg",
     "x64dbg",
+    "cheatengine",
+    "cheat engine",
+    "cheatengine-x86_64-sse4-avx2",
+    "cheatengine-i386",
+    "cheatengine-x86_64",
     "macrorecorder",
     "odbg",
     "odbg64",
