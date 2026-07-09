@@ -137,7 +137,10 @@
     "864d70dd755dab8431c2465531067cf8130168585e5dd4c4b7de3df54a1967"
   ],
   "dllblacklist": [
-    "cheatengine"
+    "cheatengine",
+    "speedhack",
+    "hackdll",
+    "injector"
   ],
   "blacklist": [
     "cheatengine.exe",
