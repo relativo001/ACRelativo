@@ -136,6 +136,9 @@
     "6e97e3cff24a781ebc49fecb1f6fe4cb4ab15c1793a405c2dd3d8435f8915062",
     "864d70dd755dab8431c2465531067cf8130168585e5dd4c4b7de3df54a1967"
   ],
+  "dllblacklist": [
+    "cheatengine"
+  ],
   "blacklist": [
     "cheatengine.exe",
     "ollydbg.exe",
