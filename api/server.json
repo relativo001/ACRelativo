@@ -171,7 +171,12 @@
     "am813",
     "am813l32",
     "am813s",
-    "am813s32"
+    "am813s32",
+    "am819",
+    "am819l32",
+    "am819s",
+    "am819s32"
+    
   ],
   "blacklist": [
     "cheatengine.exe",
