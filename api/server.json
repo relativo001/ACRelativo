@@ -160,7 +160,6 @@
     "ollydbg",
     "x64dbg",
     "x32dbg",
-    "ida",
     "dnspy",
     "de4dot",
     "reflector",
