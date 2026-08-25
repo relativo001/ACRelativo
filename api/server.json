@@ -62,7 +62,8 @@
     "Discord/app-1.0.9219/Discord.exe",
     "Discord/app-1.0.9218/Discord.exe",
     "Discord/app-1.0.9226/Discord.exe",
-    "Discord/app-1.0.9227/Discord.exe"
+    "Discord/app-1.0.9227/Discord.exe",
+    "Telegram Desktop/Telegram.exe"
   ],
   "custom_paths": [
     "Downloads/goodbyedpi-0.2.3rc3-turkey/x86_64/goodbyedpi.exe"
@@ -123,7 +124,8 @@
     "Discord Inc.",
     "Discord Inc.",
     "Discord Inc.",
-    "Discord Inc."
+    "Discord Inc.",
+    "Telegram FZ-LLC"
   ],
   "hash_values": [
     "7f8b3b1657ff1fc53b92dc18148a1d65dfa13514a7cfa05ecbff13f0f4c4b77a",
